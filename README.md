@@ -33,7 +33,7 @@ git clone [https://github.com/mariacarlyni-pereira/exercicios-DW.git](https://gi
 cd exercicios-DW/function-calc
 
 # 3. Instale as dependências (como a biblioteca mathjs)
-npm install
+npm install mathjs
 
 # 4. Execute o script principal
 node main.js
