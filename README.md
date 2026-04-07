@@ -25,14 +25,15 @@ Para rodar os exercícios localmente, siga os passos abaixo:
    git clone [https://github.com/mariacarlyni-pereira/exercicios-DW.git](https://github.com/mariacarlyni-pereira/exercicios-DW.git)
 Entre na pasta do exercício desejado:
 
-Bash
-cd nome-da-pasta
-Instale as dependências:
-As bibliotecas (como o mathjs) não são enviadas ao GitHub por segurança e performance. Você deve instalá-las rodando:
+```bash
+# 1. Clone o repositório para a sua máquina
+git clone [https://github.com/mariacarlyni-pereira/exercicios-DW.git](https://github.com/mariacarlyni-pereira/exercicios-DW.git)
 
-Bash
+# 2. Entre na pasta do repositório e acesse o exercício desejado
+cd exercicios-DW/function-calc
+
+# 3. Instale as dependências (como a biblioteca mathjs)
 npm install
-Execute o script principal:
 
-Bash
+# 4. Execute o script principal
 node main.js
