@@ -6,9 +6,9 @@ Este repositório contém exercícios práticos da disciplina de Desenvolvimento
 
 O projeto está organizado em pastas para cada desafio:
 
-* **function-calc/**: Calculadora funcional e lógica de classificação de triângulos (Equilátero, Isósceles, Escaleno).
-* **function-sum/**: Exercícios iniciais de manipulação de funções e somas simples.
-* **function-triangle-checker/**: Exercício para verificação dos lados de um triângulo.
+* **function-calc/**: Implementação de uma calculadora funcional com operações matemáticas básicas.
+* **function-sum/**: Exercício introdutório focado na criação e manipulação de uma função de soma.
+* **function-triangle-checker/**: Algoritmo para verificação de medidas e classificação de triângulos (Equilátero, Isósceles, Escaleno).
 
 ## 🛠️ Tecnologias Utilizadas
 
