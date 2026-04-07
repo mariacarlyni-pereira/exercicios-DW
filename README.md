@@ -1,6 +1,6 @@
 # Exercícios de Desenvolvimento Web - Lógica com Node.js 🚀
 
-Este repositório contém uma coleção de exercícios práticos desenvolvidos para a disciplina de Desenvolvimento Web, focados em lógica de programação utilizando **Node.js** e a biblioteca **mathjs**.
+Este repositório contém exercícios práticos da disciplina de Desenvolvimento Web, focados em lógica de programação utilizando **Node.js** e a biblioteca **mathjs**.
 
 ## 📂 Estrutura do Repositório
 
